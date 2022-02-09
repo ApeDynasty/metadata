@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1292",
+    "discription": "Ape Dynasty #1292",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1292.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "rome"
+        },
+        {
+            "trait_type": "token",
+            "value": "bnb"
+        },
+        {
+            "trait_type": "skin",
+            "value": "flesh"
+        },
+        {
+            "trait_type": "furry",
+            "value": "brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "yellow&green"
+        }
+    ]
+}

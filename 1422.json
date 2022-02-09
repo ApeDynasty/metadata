@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1422",
+    "discription": "Ape Dynasty #1422",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1422.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdt"
+        },
+        {
+            "trait_type": "skin",
+            "value": "pink"
+        },
+        {
+            "trait_type": "furry",
+            "value": "purple"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "green"
+        }
+    ]
+}

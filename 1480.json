@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1480",
+    "discription": "Ape Dynasty #1480",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1480.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdt"
+        },
+        {
+            "trait_type": "skin",
+            "value": "red"
+        },
+        {
+            "trait_type": "furry",
+            "value": "honey-brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "red&blue"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "yellow&purple"
+        }
+    ]
+}

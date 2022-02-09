@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1137",
+    "discription": "Ape Dynasty #1137",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1137.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "ape"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdt"
+        },
+        {
+            "trait_type": "skin",
+            "value": "red"
+        },
+        {
+            "trait_type": "furry",
+            "value": "brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "pink"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "background",
+            "value": "brown&blue"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #166",
+    "discription": "Ape Dynasty #166",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/166.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "ape"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdc"
+        },
+        {
+            "trait_type": "skin",
+            "value": "pink"
+        },
+        {
+            "trait_type": "furry",
+            "value": "light-brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "pink"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "pink"
+        },
+        {
+            "trait_type": "background",
+            "value": "green"
+        }
+    ]
+}

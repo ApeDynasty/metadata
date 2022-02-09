@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #673",
+    "discription": "Ape Dynasty #673",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/673.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "viking"
+        },
+        {
+            "trait_type": "token",
+            "value": "doge"
+        },
+        {
+            "trait_type": "skin",
+            "value": "pink"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue&purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "purple&green"
+        }
+    ]
+}

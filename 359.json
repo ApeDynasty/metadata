@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #359",
+    "discription": "Ape Dynasty #359",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/359.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "ape"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdc"
+        },
+        {
+            "trait_type": "skin",
+            "value": "flesh"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue&purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "green"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #170",
+    "discription": "Ape Dynasty #170",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/170.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "ape"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdc"
+        },
+        {
+            "trait_type": "skin",
+            "value": "flesh"
+        },
+        {
+            "trait_type": "furry",
+            "value": "purple"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "pink"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "pink"
+        },
+        {
+            "trait_type": "background",
+            "value": "yellow&purple"
+        }
+    ]
+}

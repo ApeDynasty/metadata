@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #188",
+    "discription": "Ape Dynasty #188",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/188.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "ape"
+        },
+        {
+            "trait_type": "token",
+            "value": "dollar"
+        },
+        {
+            "trait_type": "skin",
+            "value": "flesh"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "red&blue"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "background",
+            "value": "purple&green"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1759",
+    "discription": "Ape Dynasty #1759",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1759.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "rome"
+        },
+        {
+            "trait_type": "token",
+            "value": "doge"
+        },
+        {
+            "trait_type": "skin",
+            "value": "pink"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "yellow&purple"
+        }
+    ]
+}

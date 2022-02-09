@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #705",
+    "discription": "Ape Dynasty #705",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/705.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "ape"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdt"
+        },
+        {
+            "trait_type": "skin",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "furry",
+            "value": "white"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "red&blue"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue&purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "yellow&purple"
+        }
+    ]
+}

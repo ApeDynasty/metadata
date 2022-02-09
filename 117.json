@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #117",
+    "discription": "Ape Dynasty #117",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/117.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdt"
+        },
+        {
+            "trait_type": "skin",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "furry",
+            "value": "purple"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "background",
+            "value": "pink&yellow"
+        }
+    ]
+}

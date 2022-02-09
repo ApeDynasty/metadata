@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #823",
+    "discription": "Ape Dynasty #823",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/823.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "ape"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdc"
+        },
+        {
+            "trait_type": "skin",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "blue&green"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #740",
+    "discription": "Ape Dynasty #740",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/740.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "token",
+            "value": "dollar"
+        },
+        {
+            "trait_type": "skin",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "blue&green"
+        }
+    ]
+}

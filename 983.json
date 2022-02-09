@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #983",
+    "discription": "Ape Dynasty #983",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/983.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "viking"
+        },
+        {
+            "trait_type": "token",
+            "value": "doge"
+        },
+        {
+            "trait_type": "skin",
+            "value": "brown"
+        },
+        {
+            "trait_type": "furry",
+            "value": "light-brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "red&blue"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "background",
+            "value": "yellow&green"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #124",
+    "discription": "Ape Dynasty #124",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/124.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "ape"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdc"
+        },
+        {
+            "trait_type": "skin",
+            "value": "red"
+        },
+        {
+            "trait_type": "furry",
+            "value": "white"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "background",
+            "value": "green"
+        }
+    ]
+}

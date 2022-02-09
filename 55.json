@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #55",
+    "discription": "Ape Dynasty #55",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/55.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "token",
+            "value": "dollar"
+        },
+        {
+            "trait_type": "skin",
+            "value": "pink"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "background",
+            "value": "brown&blue"
+        }
+    ]
+}

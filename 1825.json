@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1825",
+    "discription": "Ape Dynasty #1825",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1825.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdt"
+        },
+        {
+            "trait_type": "skin",
+            "value": "red"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "background",
+            "value": "purple&green"
+        }
+    ]
+}

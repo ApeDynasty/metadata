@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #626",
+    "discription": "Ape Dynasty #626",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/626.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "france"
+        },
+        {
+            "trait_type": "token",
+            "value": "bnb"
+        },
+        {
+            "trait_type": "skin",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "furry",
+            "value": "brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "pink"
+        },
+        {
+            "trait_type": "background",
+            "value": "blue&green"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #648",
+    "discription": "Ape Dynasty #648",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/648.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "golden-france"
+        },
+        {
+            "trait_type": "token",
+            "value": "btc"
+        },
+        {
+            "trait_type": "skin",
+            "value": "flesh"
+        },
+        {
+            "trait_type": "furry",
+            "value": "light-brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "pink"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "background",
+            "value": "gold"
+        }
+    ]
+}

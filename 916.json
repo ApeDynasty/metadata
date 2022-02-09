@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #916",
+    "discription": "Ape Dynasty #916",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/916.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdc"
+        },
+        {
+            "trait_type": "skin",
+            "value": "flesh"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue&purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "purple&green"
+        }
+    ]
+}

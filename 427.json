@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #427",
+    "discription": "Ape Dynasty #427",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/427.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "token",
+            "value": "dollar"
+        },
+        {
+            "trait_type": "skin",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "blue&purple"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue&purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "yellow&purple"
+        }
+    ]
+}

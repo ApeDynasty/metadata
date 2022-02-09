@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #523",
+    "discription": "Ape Dynasty #523",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/523.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "golden-mogolia"
+        },
+        {
+            "trait_type": "token",
+            "value": "eth"
+        },
+        {
+            "trait_type": "skin",
+            "value": "light"
+        },
+        {
+            "trait_type": "furry",
+            "value": "purple"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "pink"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "background",
+            "value": "gold"
+        }
+    ]
+}

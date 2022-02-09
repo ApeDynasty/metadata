@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1098",
+    "discription": "Ape Dynasty #1098",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1098.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdc"
+        },
+        {
+            "trait_type": "skin",
+            "value": "flesh"
+        },
+        {
+            "trait_type": "furry",
+            "value": "purple"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "background",
+            "value": "brown&blue"
+        }
+    ]
+}

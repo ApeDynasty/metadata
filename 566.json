@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #566",
+    "discription": "Ape Dynasty #566",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/566.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "golden-france"
+        },
+        {
+            "trait_type": "token",
+            "value": "eth"
+        },
+        {
+            "trait_type": "skin",
+            "value": "flesh"
+        },
+        {
+            "trait_type": "furry",
+            "value": "honey-brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "blue&purple"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "gold"
+        }
+    ]
+}

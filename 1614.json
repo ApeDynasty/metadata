@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1614",
+    "discription": "Ape Dynasty #1614",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1614.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "ape"
+        },
+        {
+            "trait_type": "token",
+            "value": "dollar"
+        },
+        {
+            "trait_type": "skin",
+            "value": "flesh"
+        },
+        {
+            "trait_type": "furry",
+            "value": "purple"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "blue&purple"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "pink"
+        },
+        {
+            "trait_type": "background",
+            "value": "pink&yellow"
+        }
+    ]
+}

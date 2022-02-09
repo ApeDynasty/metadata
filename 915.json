@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #915",
+    "discription": "Ape Dynasty #915",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/915.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "token",
+            "value": "dollar"
+        },
+        {
+            "trait_type": "skin",
+            "value": "red"
+        },
+        {
+            "trait_type": "furry",
+            "value": "brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "background",
+            "value": "green"
+        }
+    ]
+}

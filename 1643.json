@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1643",
+    "discription": "Ape Dynasty #1643",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1643.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "egypt"
+        },
+        {
+            "trait_type": "token",
+            "value": "bnb"
+        },
+        {
+            "trait_type": "skin",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "red&blue"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue&purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "pink&yellow"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #958",
+    "discription": "Ape Dynasty #958",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/958.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "mogolia"
+        },
+        {
+            "trait_type": "token",
+            "value": "bnb"
+        },
+        {
+            "trait_type": "skin",
+            "value": "flesh"
+        },
+        {
+            "trait_type": "furry",
+            "value": "brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "blue&purple"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue&purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "green"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #701",
+    "discription": "Ape Dynasty #701",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/701.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "viking"
+        },
+        {
+            "trait_type": "token",
+            "value": "eth"
+        },
+        {
+            "trait_type": "skin",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "furry",
+            "value": "light-brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "purple&green"
+        }
+    ]
+}

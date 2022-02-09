@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1324",
+    "discription": "Ape Dynasty #1324",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1324.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "token",
+            "value": "usdc"
+        },
+        {
+            "trait_type": "skin",
+            "value": "red"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "pink"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "yellow&green"
+        }
+    ]
+}

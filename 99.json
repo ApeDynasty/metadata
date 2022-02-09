@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #99",
+    "discription": "Ape Dynasty #99",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/99.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "token",
+            "value": "dollar"
+        },
+        {
+            "trait_type": "skin",
+            "value": "brown"
+        },
+        {
+            "trait_type": "furry",
+            "value": "honey-brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "background",
+            "value": "blue&green"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1499",
+    "discription": "Ape Dynasty #1499",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1499.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "golden-rome"
+        },
+        {
+            "trait_type": "token",
+            "value": "eth"
+        },
+        {
+            "trait_type": "skin",
+            "value": "pink"
+        },
+        {
+            "trait_type": "furry",
+            "value": "honey-brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "red&blue"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "gold"
+        }
+    ]
+}

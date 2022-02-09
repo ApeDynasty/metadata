@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #937",
+    "discription": "Ape Dynasty #937",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/937.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "viking"
+        },
+        {
+            "trait_type": "token",
+            "value": "bnb"
+        },
+        {
+            "trait_type": "skin",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "background",
+            "value": "yellow&green"
+        }
+    ]
+}

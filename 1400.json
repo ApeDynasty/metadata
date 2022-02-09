@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1400",
+    "discription": "Ape Dynasty #1400",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1400.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "mogolia"
+        },
+        {
+            "trait_type": "token",
+            "value": "bnb"
+        },
+        {
+            "trait_type": "skin",
+            "value": "flesh"
+        },
+        {
+            "trait_type": "furry",
+            "value": "honey-brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "blue&purple"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "pink"
+        },
+        {
+            "trait_type": "background",
+            "value": "green"
+        }
+    ]
+}

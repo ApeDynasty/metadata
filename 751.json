@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #751",
+    "discription": "Ape Dynasty #751",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/751.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "golden-viking"
+        },
+        {
+            "trait_type": "token",
+            "value": "btc"
+        },
+        {
+            "trait_type": "skin",
+            "value": "brown"
+        },
+        {
+            "trait_type": "furry",
+            "value": "white"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "yellow&red"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "background",
+            "value": "gold"
+        }
+    ]
+}

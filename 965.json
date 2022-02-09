@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #965",
+    "discription": "Ape Dynasty #965",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/965.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "japan"
+        },
+        {
+            "trait_type": "token",
+            "value": "eth"
+        },
+        {
+            "trait_type": "skin",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "furry",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "background",
+            "value": "yellow&purple"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #614",
+    "discription": "Ape Dynasty #614",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/614.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "egypt"
+        },
+        {
+            "trait_type": "token",
+            "value": "doge"
+        },
+        {
+            "trait_type": "skin",
+            "value": "flesh"
+        },
+        {
+            "trait_type": "furry",
+            "value": "purple"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "pink"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "pink&yellow"
+        }
+    ]
+}

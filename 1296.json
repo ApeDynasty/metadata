@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1296",
+    "discription": "Ape Dynasty #1296",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1296.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "viking"
+        },
+        {
+            "trait_type": "token",
+            "value": "doge"
+        },
+        {
+            "trait_type": "skin",
+            "value": "brown"
+        },
+        {
+            "trait_type": "furry",
+            "value": "light-brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "pink"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "background",
+            "value": "purple&green"
+        }
+    ]
+}

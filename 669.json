@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #669",
+    "discription": "Ape Dynasty #669",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/669.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "rome"
+        },
+        {
+            "trait_type": "token",
+            "value": "bnb"
+        },
+        {
+            "trait_type": "skin",
+            "value": "flesh"
+        },
+        {
+            "trait_type": "furry",
+            "value": "brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "brown&blue"
+        }
+    ]
+}

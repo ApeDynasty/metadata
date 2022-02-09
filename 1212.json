@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1212",
+    "discription": "Ape Dynasty #1212",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1212.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "golden-japan"
+        },
+        {
+            "trait_type": "token",
+            "value": "eth"
+        },
+        {
+            "trait_type": "skin",
+            "value": "light"
+        },
+        {
+            "trait_type": "furry",
+            "value": "white"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue&purple"
+        },
+        {
+            "trait_type": "background",
+            "value": "gold"
+        }
+    ]
+}

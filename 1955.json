@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1955",
+    "discription": "Ape Dynasty #1955",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1955.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "golden-france"
+        },
+        {
+            "trait_type": "token",
+            "value": "eth"
+        },
+        {
+            "trait_type": "skin",
+            "value": "brown"
+        },
+        {
+            "trait_type": "furry",
+            "value": "white"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "pink"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "gold"
+        }
+    ]
+}

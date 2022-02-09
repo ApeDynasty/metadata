@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #481",
+    "discription": "Ape Dynasty #481",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/481.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "golden-viking"
+        },
+        {
+            "trait_type": "token",
+            "value": "btc"
+        },
+        {
+            "trait_type": "skin",
+            "value": "brown"
+        },
+        {
+            "trait_type": "furry",
+            "value": "light-brown"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "pink"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "blue"
+        },
+        {
+            "trait_type": "background",
+            "value": "gold"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1660",
+    "discription": "Ape Dynasty #1660",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1660.png",
+    "attributes": [
+        {
+            "trait_type": "rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "golden-rome"
+        },
+        {
+            "trait_type": "token",
+            "value": "btc"
+        },
+        {
+            "trait_type": "skin",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "furry",
+            "value": "white"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "green&brown"
+        },
+        {
+            "trait_type": "bracer",
+            "value": "chocolate"
+        },
+        {
+            "trait_type": "background",
+            "value": "gold"
+        }
+    ]
+}

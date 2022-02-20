@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1605",
+    "discription": "Ape Dynasty #1605",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1605.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Julius Caesar"
+        },
+        {
+            "trait_type": "Token",
+            "value": "DOGE"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Baby Pink"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Light-Brown"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green & Purple"
+        }
+    ]
+}

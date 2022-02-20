@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #670",
+    "discription": "Ape Dynasty #670",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/670.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "Token",
+            "value": "USDC"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Light-Brown"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Green & Brown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow & Purple"
+        }
+    ]
+}

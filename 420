@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #420",
+    "discription": "Ape Dynasty #420",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/420.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Oda Nobunaga"
+        },
+        {
+            "trait_type": "Token",
+            "value": "ETH"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Baby Pink"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "White"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue & Purple"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow & Pink"
+        }
+    ]
+}

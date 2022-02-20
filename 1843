@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1843",
+    "discription": "Ape Dynasty #1843",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1843.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "Token",
+            "value": "DOLLAR"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red & Blue"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow & Purple"
+        }
+    ]
+}

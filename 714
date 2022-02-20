@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #714",
+    "discription": "Ape Dynasty #714",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/714.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "Token",
+            "value": "USDC"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue & Purple"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow & Green"
+        }
+    ]
+}

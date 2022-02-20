@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1719",
+    "discription": "Ape Dynasty #1719",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1719.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Golden - Oda Nobunaga"
+        },
+        {
+            "trait_type": "Token",
+            "value": "ETH"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Honey-Brown"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue & Purple"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Green & Brown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Golden"
+        }
+    ]
+}

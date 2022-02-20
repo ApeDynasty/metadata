@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #308",
+    "discription": "Ape Dynasty #308",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/308.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Golden - Julius Caesar"
+        },
+        {
+            "trait_type": "Token",
+            "value": "ETH"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue & Purple"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Green & Brown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Golden"
+        }
+    ]
+}

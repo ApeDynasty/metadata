@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #767",
+    "discription": "Ape Dynasty #767",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/767.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "Token",
+            "value": "DOLLAR"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue & Purple"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Yellow & Red"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green & Purple"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1567",
+    "discription": "Ape Dynasty #1567",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1567.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Tutankhamun"
+        },
+        {
+            "trait_type": "Token",
+            "value": "ETH"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red & Blue"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Blue & Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow & Green"
+        }
+    ]
+}

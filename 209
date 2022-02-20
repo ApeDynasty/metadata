@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #209",
+    "discription": "Ape Dynasty #209",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/209.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Tutankhamun"
+        },
+        {
+            "trait_type": "Token",
+            "value": "BNB"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red & Blue"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue & Green"
+        }
+    ]
+}

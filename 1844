@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1844",
+    "discription": "Ape Dynasty #1844",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1844.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Genghis Khan"
+        },
+        {
+            "trait_type": "Token",
+            "value": "BNB"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Light-Brown"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Yellow & Red"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        }
+    ]
+}

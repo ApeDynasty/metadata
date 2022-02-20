@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1193",
+    "discription": "Ape Dynasty #1193",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1193.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Token",
+            "value": "USDC"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Baby Pink"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "White"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red & Blue"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green & Purple"
+        }
+    ]
+}

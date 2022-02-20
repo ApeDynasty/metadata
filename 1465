@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1465",
+    "discription": "Ape Dynasty #1465",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1465.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Golden - Napoleon"
+        },
+        {
+            "trait_type": "Token",
+            "value": "BTC"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red & Blue"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Yellow & Red"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Golden"
+        }
+    ]
+}

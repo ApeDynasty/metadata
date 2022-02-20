@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #903",
+    "discription": "Ape Dynasty #903",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/903.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Tutankhamun"
+        },
+        {
+            "trait_type": "Token",
+            "value": "BNB"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Baby Pink"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Yellow & Red"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow & Purple"
+        }
+    ]
+}

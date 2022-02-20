@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #238",
+    "discription": "Ape Dynasty #238",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/238.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Ragnar Lothbrok"
+        },
+        {
+            "trait_type": "Token",
+            "value": "BNB"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Blue & Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green & Purple"
+        }
+    ]
+}

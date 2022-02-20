@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #525",
+    "discription": "Ape Dynasty #525",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/525.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "none"
+        },
+        {
+            "trait_type": "Token",
+            "value": "USDT"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Baby Pink"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Light-Brown"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue & Green"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #902",
+    "discription": "Ape Dynasty #902",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/902.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Token",
+            "value": "DOLLAR"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red & Blue"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow & Purple"
+        }
+    ]
+}

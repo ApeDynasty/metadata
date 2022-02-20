@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #40",
+    "discription": "Ape Dynasty #40",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/40.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "N"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Token",
+            "value": "USDT"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Baby Pink"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "White"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Green & Purple"
+        }
+    ]
+}

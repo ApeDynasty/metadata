@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #614",
+    "discription": "Ape Dynasty #614",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/614.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Tutankhamun"
+        },
+        {
+            "trait_type": "Token",
+            "value": "DOGE"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Baby Pink"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow & Pink"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #1550",
+    "discription": "Ape Dynasty #1550",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/1550.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Ragnar Lothbrok"
+        },
+        {
+            "trait_type": "Token",
+            "value": "DOGE"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Yellow & Red"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Blue & Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow & Purple"
+        }
+    ]
+}

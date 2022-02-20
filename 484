@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #484",
+    "discription": "Ape Dynasty #484",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/484.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Golden - Oda Nobunaga"
+        },
+        {
+            "trait_type": "Token",
+            "value": "BTC"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red & Blue"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Blue & Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Golden"
+        }
+    ]
+}

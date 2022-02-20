@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #937",
+    "discription": "Ape Dynasty #937",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/937.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "R"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Ragnar Lothbrok"
+        },
+        {
+            "trait_type": "Token",
+            "value": "BNB"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Green & Brown"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Yellow & Green"
+        }
+    ]
+}

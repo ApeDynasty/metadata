@@ -1,0 +1,39 @@
+{
+    "name": "Ape Dynasty #976",
+    "discription": "Ape Dynasty #976",
+    "image": "https://raw.githubusercontent.com/ApeDynasty/images/main/976.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "SR"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Golden - Ragnar Lothbrok "
+        },
+        {
+            "trait_type": "Token",
+            "value": "BTC"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue & Purple"
+        },
+        {
+            "trait_type": "Bracelet",
+            "value": "Blue & Purple"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Golden"
+        }
+    ]
+}
